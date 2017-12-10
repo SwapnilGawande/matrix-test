@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Matrix Test</string>
+
+    <string name="hint_matrix_size">Enter matrix size \'N\' (1&lt;N&lt;=10)</string>
+    <string name="go">Go</string>
+    <string name="transpose">Transpose</string>
+
+    <string name="warn_matrix_not_available">Matrix not available, Enter matrix size and click \'Go\' to display the matrix</string>
+
+    <string name="err_blank_matrix_size">Enter matrix size</string>
+    <string name="err_invalid_matrix_size">Enter valid matrix size \'N\' (1&lt;N&lt;=10)</string>
+</resources>
